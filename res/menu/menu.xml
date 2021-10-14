@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_coffee"
+        android:title="COFFEE"
+        android:icon="@drawable/coffee" />
+
+    <item android:id="@+id/menu_latte"
+        android:title="NO COFFEE"
+        android:icon="@drawable/nocoffee"/>
+
+    <item android:id="@+id/menu_ade"
+        android:title="FRUIT SYRUP"
+        android:icon="@drawable/fruit"/>
+
+    <item android:id="@+id/menu_tea"
+        android:title="SHOP"
+        android:icon="@drawable/shop"/>
+
+
+
+</menu>

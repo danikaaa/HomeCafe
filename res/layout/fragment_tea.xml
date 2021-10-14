@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/test"
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:gravity="center_horizontal"
+        android:text="SHOP MENU"
+        android:textColor="@color/black"
+        android:textSize="25dp"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/btn1"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/white"
+        android:text="커피"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@color/black"
+        app:backgroundTint="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn2"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/white"
+        android:text="커피머신"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@color/black"
+        app:backgroundTint="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn3"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/white"
+        android:text="파우더"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@color/black"
+        app:backgroundTint="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn4"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/white"
+        android:text="휘핑기"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@color/black"
+        app:backgroundTint="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn5"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/white"
+        android:text="탄산수"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@color/black"
+        app:backgroundTint="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn6"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/white"
+        android:text="냉동과일"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@color/black"
+        app:backgroundTint="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn7"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/white"
+        android:text="시럽"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@color/black"
+        app:backgroundTint="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn8"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/white"
+        android:text="티백"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@color/black"
+        app:backgroundTint="#FFFFFF" />
+
+</LinearLayout>

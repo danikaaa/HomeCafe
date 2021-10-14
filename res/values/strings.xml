@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HOME CAFE</string>
+    <style name="SplashTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/splah</item>
+    </style>
+
+</resources>
